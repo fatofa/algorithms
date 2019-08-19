@@ -1,3 +1,3 @@
 # algorithms
 algorithms with osddeitf
-* test * 
+**test 
